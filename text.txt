@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Hello world my name is Chirag and I am trying my best to make various projects! 
 This is another test block of text for this project!
 I have watched the tutorial for this porject on Tech With Tim on YouTube.
+=======
+Hello world my name is Chirag and I am trying my best to make various projects!
+This is another test block of text for this project!
+I have watched the tutorial for this project on Tech With Tim on YouTube.
+>>>>>>> 98745077aad8e446b5660065a2893340a7633dbd
 Okay this is just another test to make sure the app is working okay!
 The quick brown fox jumped over the rest of the sentence that I forget.
